@@ -1,6 +1,6 @@
 pkgbase = libvterm-bzr
 	pkgdesc = Abstract library implementation of a VT220/xterm/ECMA-48 terminal emulator.
-	pkgver = 674
+	pkgver = 675
 	pkgrel = 1
 	url = http://www.leonerd.org.uk/code/libvterm
 	arch = i686
@@ -8,9 +8,9 @@ pkgbase = libvterm-bzr
 	license = MIT
 	makedepends = bzr
 	depends = glibc
-	provides = libvterm=674
+	provides = libvterm=675
 	conflicts = libvterm
-	source = libvterm-bzr::bzr+http://bazaar.leonerd.org.uk/c/libvterm/#revision=674
+	source = libvterm-bzr::bzr+http://bazaar.leonerd.org.uk/c/libvterm/#revision=675
 	sha256sums = SKIP
 
 pkgname = libvterm-bzr
